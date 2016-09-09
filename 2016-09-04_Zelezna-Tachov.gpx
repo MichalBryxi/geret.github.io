@@ -12,7 +12,7 @@
 		<desc>File with points/tracks from Locus Map/3.18.9</desc>
 	</metadata>
 <trk>
-<name>2016-09-04 Zelezna-Tachov</name>
+<name>2016-09-04 - Železná-Tachov</name>
 <desc><![CDATA[<br /><br /><font color="black"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Délka</b></small></td><td align="center" valign="center">41.2 km</td></tr>
 <tr><td align="left" valign="center"><small><b>Body</b></small></td><td align="center" valign="center">2247</td></tr>
 <tr><td align="left" valign="center"><small><b>Vytvořeno</b></small></td><td align="center" valign="center">2016-09-04 10:08:37</td></tr>
@@ -28,13 +28,7 @@
 <tr><td align="left" valign="center"><small><b>Rovina</b></small></td><td align="center" valign="center">0 m</td><td align="center" valign="center">12756 m</td></tr>
 <tr><td align="left" valign="center"><small><b>Celkem</b></small></td><td align="center" valign="center">1865 m</td><td align="center" valign="center">41325 m</td></tr>
 </table></td></tr></table></font>]]></desc>
-	<extensions>
-		<gpx_style:line>
-			<gpx_style:color>#96D500FF</gpx_style:color>
-			<gpx_style:width>9.0</gpx_style:width>
-		</gpx_style:line>
-	</extensions>
-<trkseg>
+	<trkseg>
 <trkpt lat="49.585762" lon="12.587730">
 	<ele>577.00</ele>
 	<time>2016-09-04T08:08:38Z</time>

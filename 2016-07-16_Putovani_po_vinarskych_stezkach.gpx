@@ -12,7 +12,7 @@
 		<desc>File with points/tracks from Locus Map/3.18.4</desc>
 	</metadata>
 <trk>
-<name>2016-07-16 09:33:25 Putovani po vinarskych stezkach</name>
+<name>2016-07-16 - Putovani po vinarskych stezkach</name>
 <desc><![CDATA[<br /><br /><font color="black"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Délka</b></small></td><td align="center" valign="center">22.7 km</td></tr>
 <tr><td align="left" valign="center"><small><b>Body</b></small></td><td align="center" valign="center">1160</td></tr>
 <tr><td align="left" valign="center"><small><b>Vytvořeno</b></small></td><td align="center" valign="center">2016-07-16 09:33:25</td></tr>
@@ -28,13 +28,7 @@
 <tr><td align="left" valign="center"><small><b>Rovina</b></small></td><td align="center" valign="center">0 m</td><td align="center" valign="center">6640 m</td></tr>
 <tr><td align="left" valign="center"><small><b>Celkem</b></small></td><td align="center" valign="center">1090 m</td><td align="center" valign="center">22794 m</td></tr>
 </table></td></tr></table></font>]]></desc>
-	<extensions>
-		<gpx_style:line>
-			<gpx_style:color>#960000FF</gpx_style:color>
-			<gpx_style:width>9.0</gpx_style:width>
-		</gpx_style:line>
-	</extensions>
-<trkseg>
+	<trkseg>
 <trkpt lat="48.887376" lon="16.647544">
 	<ele>221.00</ele>
 	<time>2016-07-16T07:33:25Z</time>

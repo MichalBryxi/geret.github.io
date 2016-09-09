@@ -12,7 +12,7 @@
 		<desc>File with points/tracks from Locus Map/3.18.6</desc>
 	</metadata>
 <trk>
-<name>2016-08-20 Horazdovice - Zdirec</name>
+<name>2016-08-20 - Horažďovice-Ždírec</name>
 <desc><![CDATA[<br /><br /><font color="black"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Délka</b></small></td><td align="center" valign="center">48.1 km</td></tr>
 <tr><td align="left" valign="center"><small><b>Body</b></small></td><td align="center" valign="center">2373</td></tr>
 <tr><td align="left" valign="center"><small><b>Vytvořeno</b></small></td><td align="center" valign="center">2016-08-20 08:23:57</td></tr>
@@ -28,13 +28,7 @@
 <tr><td align="left" valign="center"><small><b>Rovina</b></small></td><td align="center" valign="center">0 m</td><td align="center" valign="center">17455 m</td></tr>
 <tr><td align="left" valign="center"><small><b>Celkem</b></small></td><td align="center" valign="center">1923 m</td><td align="center" valign="center">48176 m</td></tr>
 </table></td></tr></table></font>]]></desc>
-	<extensions>
-		<gpx_style:line>
-			<gpx_style:color>#96D500FF</gpx_style:color>
-			<gpx_style:width>9.0</gpx_style:width>
-		</gpx_style:line>
-	</extensions>
-<trkseg>
+	<trkseg>
 <trkpt lat="49.331268" lon="13.738698">
 	<ele>474.00</ele>
 	<time>2016-08-20T06:23:57Z</time>

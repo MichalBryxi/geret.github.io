@@ -12,7 +12,7 @@
 		<desc>File with points/tracks from Locus Map/3.18.4</desc>
 	</metadata>
 <trk>
-<name>2016-07-18 08:25:35 Mikulovsko part 2</name>
+<name>2016-07-18 - Mikulovsko III</name>
 <desc><![CDATA[<br /><br /><font color="black"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Délka</b></small></td><td align="center" valign="center">30.4 km</td></tr>
 <tr><td align="left" valign="center"><small><b>Body</b></small></td><td align="center" valign="center">1497</td></tr>
 <tr><td align="left" valign="center"><small><b>Vytvořeno</b></small></td><td align="center" valign="center">2016-07-18 08:25:35</td></tr>
@@ -28,12 +28,6 @@
 <tr><td align="left" valign="center"><small><b>Rovina</b></small></td><td align="center" valign="center">0 m</td><td align="center" valign="center">13326 m</td></tr>
 <tr><td align="left" valign="center"><small><b>Celkem</b></small></td><td align="center" valign="center">943 m</td><td align="center" valign="center">30468 m</td></tr>
 </table></td></tr></table></font>]]></desc>
-	<extensions>
-		<gpx_style:line>
-			<gpx_style:color>#960000FF</gpx_style:color>
-			<gpx_style:width>9.0</gpx_style:width>
-		</gpx_style:line>
-	</extensions>
 <trkseg>
 <trkpt lat="48.807750" lon="16.494079">
 	<ele>225.00</ele>
