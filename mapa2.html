@@ -3,22 +3,31 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
+		<link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.6.0/pure-min.css">
 		<script type="text/javascript" src="https://api.mapy.cz/loader.js"></script>
 		<script type="text/javascript">Loader.load(null, {poi: true});</script>
-		<style type="text/css">
+				<style type="text/css">
 			#m {z-index: 0;}
 			.dropdown {position: relative; display: inline-block;}
 			.dropbtn {background-color: #4CAF50; color: white; padding: 10px; font-size: 16px; border: none; cursor: pointer;}
-			.dropdown-content { display: none; position: absolute; overflow-y: scroll; background-color: #f9f9f9; min-width: 450px; max-height: 587px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 1;}
+			.dropdown-content { display: none; position: absolute; overflow-y: scroll; background-color: #f9f9f9; min-width: 400px; max-height: 587px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 1;}
 			.show {display:block;}
 			.spani, .veta {position: relative; display: inline-block; padding: 5px;}
+			.button-success {background: rgb(28, 184, 65); /* this is a green */ }
 		</style>
 	</head>
 	<body>
+	<div>
+		<div>
+			<p>
+			 <a href="mapa2.html" class="pure-button pure-button-primary">Projeté trasy</a>
+			 <a href="mapa3.html" class="pure-button pure-button-primary">Naplánované trasy</a>
+		</p>
+				</div>
 		<div class="dropdown">
 			<input type="button" onclick="zobrazMenu()" class="dropbtn" value="Trasy">
 			<div id="seznam" class="dropdown-content">
-			<table id="tabulka">
+			<table class="pure-table pure-table-bordered" style="font-size:12px" id="tabulka">
 				<thead><tr><td>Vylet</td><td>P</td><td>Z/S</td></tr></thead>
 				<tbody></tbody>
 			</table>
@@ -27,7 +36,7 @@
 		<div class="spani">Mista na spani:
 				<input type="checkbox" id="spani">
 		</div>
-		<div class="veta">Mame za sebou uz <span id="vylety">0</span> vyletu a celkem jsme urazili <span id="km">0</span> kilometru</div>
+		<div class="veta">Máme za sebou už <span id="vylety">0</span> výletů a celkem jsme urazili <span id="km">0</span> kilometrů</div>
 
 <!--
 		<div>pokusny:
@@ -119,6 +128,17 @@
 			var triBarvy = [barvy.oranzova2, barvy.svetlemodra2, barvy.fialova2];
 
 			var seznamTras = [
+				{url: "2013-12-22 - KOPR.gpx"},
+				{url: "2014-03-29 - Vejprnické kolečko.gpx"},
+				{url: "2014-04-26 - Vejprnické kolečko II.gpx"},
+				{url: "2014-04-27 - Stříbro-Vejprnice.gpx"},
+				{url: "2014-04-30 - Signalka I.gpx"},
+				{url: "2014-05-01 - Signalka II.gpx"},
+				{url: "2014-05-02 - Signalka III.gpx"},
+				{url: "2014-05-03 - Signalka IV.gpx"},
+				{url: "2014-05-10 - Blovice-Poříčí.gpx"},
+				{url: "2014-06-07 - Farmářská stezka.gpx"},
+				{url: "2014-06-08 - Horní-Dolní.gpx"},
 				{url: "2014-06-27_Nemecko_na_kolobezkach.gpx"},
 				{url: "2014-06-28_Nemecko_na_kolobezkach.gpx"},
 				{url: "2014-06-29_Nemecko_na_kolobezkach.gpx"},
