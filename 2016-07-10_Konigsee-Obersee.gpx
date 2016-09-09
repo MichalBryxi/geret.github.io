@@ -12,7 +12,7 @@
 		<desc>File with points/tracks from Locus Map/3.18.2</desc>
 	</metadata>
 <trk>
-<name>2016-07-10 10:20:55 Konigsee - Obersee</name>
+<name>2016-07-10 - Königsee-Obersee</name>
 <desc><![CDATA[<br /><br /><font color="black"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Délka</b></small></td><td align="center" valign="center">10.6 km</td></tr>
 <tr><td align="left" valign="center"><small><b>Body</b></small></td><td align="center" valign="center">776</td></tr>
 <tr><td align="left" valign="center"><small><b>Vytvořeno</b></small></td><td align="center" valign="center">2016-07-10 10:20:55</td></tr>
@@ -28,13 +28,7 @@
 <tr><td align="left" valign="center"><small><b>Rovina</b></small></td><td align="center" valign="center">0 m</td><td align="center" valign="center">1936 m</td></tr>
 <tr><td align="left" valign="center"><small><b>Celkem</b></small></td><td align="center" valign="center">1302 m</td><td align="center" valign="center">10775 m</td></tr>
 </table></td></tr></table></font>]]></desc>
-	<extensions>
-		<gpx_style:line>
-			<gpx_style:color>#960000FF</gpx_style:color>
-			<gpx_style:width>9.0</gpx_style:width>
-		</gpx_style:line>
-	</extensions>
-<trkseg>
+	<trkseg>
 <trkpt lat="47.524667" lon="12.973524">
 	<ele>679.00</ele>
 	<time>2016-07-10T08:20:55Z</time>

@@ -12,7 +12,7 @@
 		<desc>File with points/tracks from Locus Map/3.18.2</desc>
 	</metadata>
 <trk>
-<name>2016-07-09 09:07:42 Wimbachklamm</name>
+<name>2016_07-09 - Wimbachklamm</name>
 <desc><![CDATA[<br /><br /><font color="black"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Délka</b></small></td><td align="center" valign="center">6.1 km</td></tr>
 <tr><td align="left" valign="center"><small><b>Body</b></small></td><td align="center" valign="center">509</td></tr>
 <tr><td align="left" valign="center"><small><b>Vytvořeno</b></small></td><td align="center" valign="center">2016-07-09 09:07:42</td></tr>
@@ -28,13 +28,7 @@
 <tr><td align="left" valign="center"><small><b>Rovina</b></small></td><td align="center" valign="center">0 m</td><td align="center" valign="center">747 m</td></tr>
 <tr><td align="left" valign="center"><small><b>Celkem</b></small></td><td align="center" valign="center">638 m</td><td align="center" valign="center">6166 m</td></tr>
 </table></td></tr></table></font>]]></desc>
-	<extensions>
-		<gpx_style:line>
-			<gpx_style:color>#960000FF</gpx_style:color>
-			<gpx_style:width>9.0</gpx_style:width>
-		</gpx_style:line>
-	</extensions>
-<trkseg>
+	<trkseg>
 <trkpt lat="47.602260" lon="12.924136">
 	<ele>682.85</ele>
 	<time>2016-07-09T07:07:42Z</time>

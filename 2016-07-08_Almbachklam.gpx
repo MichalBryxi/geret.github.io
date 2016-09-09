@@ -9,10 +9,10 @@
  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
  xmlns:locus="http://www.locusmap.eu">
 	<metadata>
-		<desc>File with points/tracks from Locus Map/3.18.2</desc>
+		<desc>pesky</desc>
 	</metadata>
 <trk>
-<name>2016-07-08 13:06:28 Almbachklam</name>
+<name>2016-07-08 - Almbachklam</name>
 <desc><![CDATA[Souteska<br /><br /><font color="black"><table width="100%"><tr><td width="100%" align="center">Souteska</td></tr><tr><td colspan="1"><hr></td></tr><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Délka</b></small></td><td align="center" valign="center">8.0 km</td></tr>
 <tr><td align="left" valign="center"><small><b>Body</b></small></td><td align="center" valign="center">669</td></tr>
 <tr><td align="left" valign="center"><small><b>Vytvořeno</b></small></td><td align="center" valign="center">2016-07-08 13:06:28</td></tr>
@@ -28,13 +28,7 @@
 <tr><td align="left" valign="center"><small><b>Rovina</b></small></td><td align="center" valign="center">0 m</td><td align="center" valign="center">1039 m</td></tr>
 <tr><td align="left" valign="center"><small><b>Celkem</b></small></td><td align="center" valign="center">1015 m</td><td align="center" valign="center">8085 m</td></tr>
 </table></td></tr></table></font>]]></desc>
-	<extensions>
-		<gpx_style:line>
-			<gpx_style:color>#960000FF</gpx_style:color>
-			<gpx_style:width>9.0</gpx_style:width>
-		</gpx_style:line>
-	</extensions>
-<trkseg>
+	<trkseg>
 <trkpt lat="47.670374" lon="13.031504">
 	<ele>548.68</ele>
 	<time>2016-07-08T11:06:28Z</time>
