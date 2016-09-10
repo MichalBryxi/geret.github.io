@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="mapy.cz" version="1.1"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <trk>
+        <name>Hřebenovka přes Javory</name>
+        <trkseg>
+            <trkpt lat="49.1630934924" lon="12.9909601808">
+                <name>WP 001</name>
+                <ele
+                    xmlns="">831.9012225212355
+                </ele>
+            </trkpt>
+            <trkpt lat="49.1627541929" lon="13.9911506176">
+                <name>WP 002</name>
+                <ele
+                    xmlns="">831.024837562743
+                </ele>
+            </trkpt>
+            <trkpt lat="49.1627005488" lon="14.9913061857">
+                <name>WP 003</name>
+                <ele
+                    xmlns="">831.9504864065675
+                </ele>
+            </trkpt>
+            <trkpt lat="48.1626549512" lon="12.9915341735">
+                <name>WP 004</name>
+                <ele
+                    xmlns="">833.2071521082573
+                </ele>
+            </trkpt>
+            <trkpt lat="49.1624792665" lon="12.9920612276">
+                <name>WP 005</name>
+                <ele
+                    xmlns="">833.7889127460511
+                </ele>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>
