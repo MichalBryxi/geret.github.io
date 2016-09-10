@@ -1,17 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<gpx version="1.1" creator="Locus Android"
- xmlns="http://www.topografix.com/GPX/1/1"
- xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
- xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2"
- xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
- xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
- xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
- xmlns:locus="http://www.locusmap.eu">
-	<metadata>
-		<name>04 - Boubín</name>
-	</metadata>
-<trk>
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="mapy.cz" version="1.1"
+    xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <trk>
+        <name>boubinsky prales</name>
         <trkseg>
             <trkpt lat="48.9834089577" lon="13.7745407224">
                 <name>WP 001</name>
